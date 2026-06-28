@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - Countries API Project
 
-Submitted by: **Your Name Here**
+Submitted by: **Abel Tapia**
 
-This web app: **insert description**
+This web app: **This web app allows users to discover random countries using an API. Users can view information about each country, add attributes to a ban list, and keep track of previously viewed countries.**
 
-Time spent: **X** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Required Features
 
@@ -44,16 +44,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='country-api-project.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-One challenge I encountered was finding an API that worked properly with React because some APIs were blocked by CORS. I tested different APIs before finding one that worked reliably. Another challenge was implementing the ban list so banned attributes would no longer appear while still allowing users to remove items from the list. I also added a history feature to keep track of previously viewed countries.
+One challenge I encountered was finding an API that worked properly with React because some APIs were blocked by CORS. I tested several APIs before finding one that worked reliably. Another challenge was implementing the ban list so banned attributes would no longer appear while still allowing users to remove items from the list. I also added a history feature to keep track of previously viewed countries.
 
 ## License
 
